@@ -45,4 +45,4 @@ su root: para ingresar
 
 sudo passwd root: cambiar la contrasena y acceder al usuario root
 
-whoami: cula usuario estamos usando
+whoami: cual usuario estamos usando
