@@ -1,0 +1,48 @@
+Direccion Ip del equipo:  ip addr
+
+conectividad hacia otros equipos: ping
+
+Puertos abiertos sobre una ip:nmap
+
+sudo apt install openssh-server
+
+
+sudo apt install openssh-server: intalar par poder utilizar protocolo para pasar archivos
+
+ipconfig: saber la ip en windows.
+
+cd: para cambiar o acceder a un directorio
+
+mkdir= crear una nueva carpeta
+
+ls: para ver donde estamos
+
+cd ..: para devolvernos
+
+pwd: para ver el directorio de trabajo actual
+
+touch : crear desde cero un archivo.
+
+nano (archivo): para editar un archivo
+
+cat: Muestra contenido de un archivo
+
+clear: borrar la pantalla 
+
+ps -aux: lista de todos los procesos que estan corriendo
+
+top: Procesos que estan corriendo en tiempo real.
+
+ps tree: par ver procesos y sus hijos
+
+clear: limpiar
+
+| :concatena comandos. Ej:ps -aux | grep firefox
+
+kill-9: Matar el proceso
+
+su root: para ingresar 
+
+sudo passwd root: cambiar la contrasena y acceder al usuario root
+
+whoami: cula usuario estamos usando
