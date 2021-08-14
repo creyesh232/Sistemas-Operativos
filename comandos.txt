@@ -46,3 +46,15 @@ su root: para ingresar
 sudo passwd root: cambiar la contrasena y acceder al usuario root
 
 whoami: cual usuario estamos usando
+
+docker images: muestra nuestras imagenes
+
+docker ps: procesos
+
+docker ps -a: Contenedores disponibles
+
+docker rm: borrar
+
+docker run
+
+docker stop
