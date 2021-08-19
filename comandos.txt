@@ -55,7 +55,7 @@ whoami: cual usuario estamos usando
 
 find: Ubicar archivos dentro de un directorio
 
-tai:Ultimas diez lineas de un archivo de texto.
+tail:Ultimas diez lineas de un archivo de texto.
 
 head: Muestra primeras lineas de un archivo de texto.
 
