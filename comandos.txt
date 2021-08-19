@@ -9,9 +9,11 @@ conectividad hacia otros equipos: ping
 
 Puertos abiertos sobre una ip:nmap
 
+Sudo apt install: Realizar instalaciones
+
 sudo apt install openssh-server
 
-sudo apt install openssh-server: intalar par poder utilizar protocolo para pasar archivos
+sudo apt install openssh-server: instalar par poder utilizar protocolo para pasar archivos
 
 ipconfig: saber la ip en windows.
 
@@ -60,9 +62,9 @@ head: Muestra primeras lineas de un archivo de texto.
 hostname: Nombre de host o red.
 
 
-
-
-
+=======================================================================================================
+Docker Commands
+=======================================================================================================
 docker images: muestra nuestras imagenes
 
 docker ps: procesos
@@ -71,7 +73,10 @@ docker ps -a: Contenedores disponibles
 
 docker rm: borrar
 
-docker run
+docker rmi: Eliminar imagenes
 
-docker stop
+docker exec-it: Entrar en algun contenedor que este corriendo
 
+docker run: Ejecutar contenedor
+
+docker stop: Parar un contenedor
