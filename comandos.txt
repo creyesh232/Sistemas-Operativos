@@ -6,7 +6,6 @@ Puertos abiertos sobre una ip:nmap
 
 sudo apt install openssh-server
 
-
 sudo apt install openssh-server: intalar par poder utilizar protocolo para pasar archivos
 
 ipconfig: saber la ip en windows.
@@ -47,6 +46,18 @@ sudo passwd root: cambiar la contrasena y acceder al usuario root
 
 whoami: cual usuario estamos usando
 
+find: Ubicar archivos dentro de un directorio
+
+tai:Ultimas diez lineas de un archivo de texto.
+
+head: Muestra primeras lineas de un archivo de texto.
+
+hostname: Nombre de host o red.
+
+
+
+
+
 docker images: muestra nuestras imagenes
 
 docker ps: procesos
@@ -58,3 +69,4 @@ docker rm: borrar
 docker run
 
 docker stop
+
