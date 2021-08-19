@@ -1,84 +1,86 @@
 =======================================================================================================
-Comandos Sistemas Operativos
+>Comandos Sistemas Operativos
 =======================================================================================================
-Caleb Reyes Hamm
+>Caleb Reyes Hamm
 =======================================================================================================
-Repositorio Git
+>Universidad Latina de Ciencia y Tecnología
 =======================================================================================================
-Direccion Ip del equipo:  ip addr
+>Repositorio Git
+=======================================================================================================
+#Direccion Ip del equipo:  ip addr
 
-conectividad hacia otros equipos: ping
+#Conectividad hacia otros equipos: ping
 
-Puertos abiertos sobre una ip:nmap
+#Puertos abiertos sobre una ip:nmap
 
-Sudo apt install: Realizar instalaciones
+#Sudo apt install: Realizar instalaciones
 
-sudo apt install openssh-server
+#sudo apt install openssh-server
 
-sudo apt install openssh-server: instalar par poder utilizar protocolo para pasar archivos
+#sudo apt install openssh-server: instalar par poder utilizar protocolo para pasar archivos
 
-ipconfig: saber la ip en windows.
+#ipconfig: saber la ip en windows.
 
-cd: para cambiar o acceder a un directorio
+#cd: para cambiar o acceder a un directorio
 
-mkdir= crear una nueva carpeta
+#mkdir= crear una nueva carpeta
 
-ls: para ver donde estamos
+#ls: para ver donde estamos
 
-cd ..: para devolvernos
+#cd ..: para devolvernos
 
-pwd: para ver el directorio de trabajo actual
+#pwd: para ver el directorio de trabajo actual
 
-touch : crear desde cero un archivo.
+#touch : crear desde cero un archivo.
 
-nano (archivo): para editar un archivo
+#nano (archivo): para editar un archivo
 
-cat: Muestra contenido de un archivo
+#cat: Muestra contenido de un archivo
 
-clear: borrar la pantalla 
+#clear: borrar la pantalla 
 
-ps -aux: lista de todos los procesos que estan corriendo
+#ps -aux: lista de todos los procesos que estan corriendo
 
-top: Procesos que estan corriendo en tiempo real.
+#top: Procesos que estan corriendo en tiempo real.
 
-ps tree: par ver procesos y sus hijos
+#ps tree: par ver procesos y sus hijos
 
-clear: limpiar
+#clear: limpiar
 
-| :concatena comandos. Ej:ps -aux | grep firefox
+#| :concatena comandos. Ej:ps -aux | grep firefox
 
-kill-9: Matar el proceso
+#kill-9: Matar el proceso
 
-su root: para ingresar 
+#su root: para ingresar 
 
-sudo passwd root: cambiar la contrasena y acceder al usuario root
+#sudo passwd root: cambiar la contrasena y acceder al usuario root
 
-whoami: cual usuario estamos usando
+#whoami: cual usuario estamos usando
 
-find: Ubicar archivos dentro de un directorio
+#find: Ubicar archivos dentro de un directorio
 
-tail:Ultimas diez lineas de un archivo de texto.
+#tail:Ultimas diez lineas de un archivo de texto.
 
-head: Muestra primeras lineas de un archivo de texto.
+#head: Muestra primeras lineas de un archivo de texto.
 
-hostname: Nombre de host o red.
+#hostname: Nombre de host o red.
 
 
 =======================================================================================================
-Docker Commands
+>Docker Commands
 =======================================================================================================
-docker images: muestra nuestras imagenes
+#docker images: muestra nuestras imagenes
 
-docker ps: procesos
+#docker ps: procesos
 
-docker ps -a: Contenedores disponibles
+#docker ps -a: Contenedores disponibles
 
-docker rm: borrar
+#docker rm: borrar
 
-docker rmi: Eliminar imagenes
+#docker rmi: Eliminar imagenes
 
-docker exec-it: Entrar en algun contenedor que este corriendo
+#docker exec-it: Entrar en algun contenedor que este corriendo
 
-docker run: Ejecutar contenedor
+#docker run: Ejecutar contenedor
 
-docker stop: Parar un contenedor
+#docker stop: Parar un contenedor
