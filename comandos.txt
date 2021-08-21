@@ -84,3 +84,24 @@
 #docker run: Ejecutar contenedor
 
 #docker stop: Parar un contenedor
+
+=======================================================================================================
+>Powershell Commands
+=======================================================================================================
+#Get-Host: Version de Powershell
+
+#Get-History: Historial de comandos ejecutados
+
+#Get-Random: Numero Aleatorio
+
+#Get-Service: Nos ayuda a saber algunos de los servicios del sistema.
+
+#Copy-Item: Para copiar algun archivo
+
+#Remove-Item: Borrar elementos
+
+#Start-Process: Ejecutar algun proceso en el equipo
+
+#Stop-Process: Detener un proceso en si
+
+#Start: Empezar un servicio en la PC
